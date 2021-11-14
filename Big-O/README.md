@@ -28,6 +28,12 @@ Big O Cheat Sheet:
     * for nested steps
 Rule 4: Drop Non-dominant terms
 
+--What causes space complexity--
+* Variables
+* Data Structures
+* Function call
+* Allocations
+
 ------------------------
 
 ##Types
